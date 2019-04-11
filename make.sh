@@ -1,7 +1,7 @@
 #!/bin/bash
 
 pandoc -s --csl=chicago.csl \
-    --variable documentclass=report \
+    --variable documentclass=article \
     --bibliography=mybooks.bib \
     -o ${1//.md}.pdf ${1}
 
