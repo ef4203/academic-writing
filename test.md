@@ -13,7 +13,7 @@ For inline math, you just $d(o)=this$.
 And for large math, you
 
 $$
-d(0)=this
+d(0)=this \in \mathbb{N}
 $$
 
 ## Code
