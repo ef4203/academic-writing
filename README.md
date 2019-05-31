@@ -3,7 +3,7 @@ All files that I use for academic writing
 
 Install on ubuntu with
 ```
-sudo apt install pandoc texlive-fulll pandoc-citeproc
+sudo apt install pandoc texlive-full pandoc-citeproc
 ```
 
 On arch
